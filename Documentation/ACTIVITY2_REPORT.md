@@ -1,6 +1,6 @@
 # Activity 2: Categorical Data Encoding and Feature Scaling Techniques
 
-**Student:** Eduardo Yaguari  
+**Student:** Eduardo Yaguar
 **Course:** Intelligent Systems  
 **Project:** Patient Readmission to Hospital After Discharge  
 **Date:** November 2025
